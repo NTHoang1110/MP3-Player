@@ -1,0 +1,30 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\eibo_simpleminim_new.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\ProgUtil_StaticScanner.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\minim_library\\minim_library\\jl1.0.1.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\minim_library\\minim_library\\jsminim.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\minim_library\\minim_library\\minim.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\minim_library\\minim_library\\mp3spi1.9.5.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\minim_library\\minim_library\\tritonus_aos.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\minim_library\\minim_library\\tritonus_share.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\mp3agic.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\mp3playerUtil.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\javafx-sdk-23.0.1\\lib\\javafx.base.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\javafx-sdk-23.0.1\\lib\\javafx.controls.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\javafx-sdk-23.0.1\\lib\\javafx.fxml.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\javafx-sdk-23.0.1\\lib\\javafx.graphics.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\javafx-sdk-23.0.1\\lib\\javafx.media.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\javafx-sdk-23.0.1\\lib\\javafx.swing.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\javafx-sdk-23.0.1\\lib\\javafx.web.jar",
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\javafx-sdk-23.0.1\\lib\\javafx-swt.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\tinho\\OneDrive\\Desktop\\Hochschule RheinMain\\3.Semester\\Entwicklung interaktiver Benutzungsoberflächen\\Sourcen\\javafx-sdk-23.0.1\\lib\\javafx-swt.jar"
+        ]
+    }
+}

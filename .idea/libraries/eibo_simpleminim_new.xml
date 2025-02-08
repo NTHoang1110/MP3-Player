@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="eibo_simpleminim_new">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Sourcen/eibo_simpleminim_new.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/mp3agic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/mp3playerUtil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/ProgUtil_StaticScanner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/minim_library/minim_library/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/minim_library/minim_library/jsminim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/minim_library/minim_library/minim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/minim_library/minim_library/mp3spi1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/minim_library/minim_library/tritonus_aos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/minim_library/minim_library/tritonus_share.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Sourcen/ImageViewPane.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/ProgUtil_StaticScanner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/minim_library/minim_library/jl1.0.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
