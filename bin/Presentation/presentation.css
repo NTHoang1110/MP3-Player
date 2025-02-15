@@ -1,0 +1,80 @@
+
+#mainPlayerView{
+
+}
+
+#title {
+    -fx-font-family: Arial;
+    -fx-font-size: 25;
+}
+
+#artist {
+    -fx-font-family: Arial;
+    -fx-font-size: 15;
+}
+
+.trackName{
+    -fx-font-family: Arial;
+    -fx-font-size: 15;
+}
+
+.playlist-item{
+    -fx-font-size: 30;
+    -fx-font-family: Arial;
+}
+
+.button {
+    -fx-min-height: 40;
+    -fx-min-width: 40;
+    -fx-background-color: transparent;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat no-repeat;
+}
+
+#choose-button{
+    -fx-background-image: url("/Assets/play.png");
+    -fx-background-size: 30 30;
+}
+
+#play-button {
+    -fx-background-image: url("/Assets/play.png");
+    -fx-background-size: 40 40;
+}
+
+#skip-button {
+    -fx-background-image: url("/Assets/forward.png");
+    -fx-background-size: 40 40;
+}
+
+#skipBack-button {
+    -fx-background-image: url("/Assets/rewind.png");
+    -fx-background-size: 40 40;
+}
+
+#back-button {
+    -fx-background-image: url("/Assets/music-book.png");
+    -fx-background-size: 25 25;
+}
+
+#repeat-button {
+    -fx-background-image: url("/Assets/repeat.png");
+    -fx-background-size: 25 25;
+}
+
+#shuffle-button {
+    -fx-background-image: url("/Assets/shuffle.png");
+    -fx-background-size: 25 25;
+}
+
+#pause-button {
+    -fx-background-image: url("/Assets/pause.png");
+    -fx-background-size: 40 40;
+}
+#volume-up{
+    -fx-background-image: url("/Assets/volume-up.png");
+    -fx-background-size: 40 40;
+}
+#volume-down{
+    -fx-background-image: url("/Assets/reduce-volume.png");
+    -fx-background-size: 40 40;
+}

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "Application.example",
+            "projectName": "MP3-Player_6d841063"
+        },
+        {
+            "type": "java",
+            "name": "HelloApplication",
+            "request": "launch",
+            "mainClass": "Application.HelloApplication",
+            "projectName": "MP3-Player_6d841063"
+        },
+        {
+            "type": "java",
             "name": "HelloApplication",
             "request": "launch",
             "mainClass": "Application.HelloApplication",
