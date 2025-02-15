@@ -8,6 +8,7 @@
             "type": "java",
             "name": "example",
             "request": "launch",
+            "vmArgs": "--module-path /Users/tinho/OneDrive/Desktop/'Hochschule RheinMain'/3.Semester/'Entwicklung interaktiver Benutzungsoberflächen'/Sourcen/javafx-sdk-23.0.1/lib --add-modules javafx.controls",
             "mainClass": "Application.example",
             "projectName": "MP3-Player_6d841063"
         },
@@ -15,6 +16,7 @@
             "type": "java",
             "name": "HelloApplication",
             "request": "launch",
+            "vmArgs": "--module-path /Users/tinho/OneDrive/Desktop/'Hochschule RheinMain'/3.Semester/'Entwicklung interaktiver Benutzungsoberflächen'/Sourcen/javafx-sdk-23.0.1/lib --add-modules javafx.controls",
             "mainClass": "Application.HelloApplication",
             "projectName": "MP3-Player_6d841063"
         },
